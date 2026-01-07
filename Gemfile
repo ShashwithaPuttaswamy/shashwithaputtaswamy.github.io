@@ -1,7 +1,11 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'jekyll'
+# Use the github-pages gem to ensure the correct versions are used
+gem "github-pages", group: :jekyll_plugins
 
+# Add the theme you were trying to install
+gem "jekyll-theme-primer"
+#gem 'jekyll'
 # Core plugins that directly affect site building
 group :jekyll_plugins do
     gem 'jekyll-archives-v2'
