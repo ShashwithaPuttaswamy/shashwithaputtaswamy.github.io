@@ -1,4 +1,7 @@
-theme: jekyll-theme-primer
+#theme: jekyll-theme-primer
+plugins:
+  - jekyll-remote-theme
+remote_theme: pages-themes/primer
 #third_party_libraries:
 # Site settings
 title: Shashwitha Puttaswamy
