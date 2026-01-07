@@ -1,5 +1,5 @@
 theme: jekyll-theme-primer
-third_party_libraries:
+#third_party_libraries:
 # Site settings
 title: Shashwitha Puttaswamy
 email: Shashwithaputtaswamy@gmail.com
@@ -24,11 +24,6 @@ nav:
     url: /pages/publications/
   - title: "Contact"
     url: /pages/contact/
-
- # CV RESUME 
-cv:
- title: cv
- url: /pages/resume/
  
 # Author info
 author:
