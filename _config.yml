@@ -24,6 +24,11 @@ nav:
   - title: "Contact"
     url: /pages/contact/
 
+ # CV RESUME 
+cv:
+ title: cv
+ url: /pages/resume/
+ 
 # Author info
 author:
   name: Shashwitha Puttaswamy
